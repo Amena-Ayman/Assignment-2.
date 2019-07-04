@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561470333 source:e:\courses\embedded course\c programing\session 2\second group of tasks\task 1\main.c
+	"header.h"
+
+1561470333 source:e:\courses\embedded course\c programing\session 2\second group of tasks\task 1\function.c
+
+1561470313 e:\courses\embedded course\c programing\session 2\second group of tasks\task 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	"prototype.h"
+
+1561470313 e:\courses\embedded course\c programing\session 2\second group of tasks\task 1\prototype.h
+
